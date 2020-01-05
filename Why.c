@@ -11,5 +11,6 @@ int main()
 {
    gotoxy(7,7);
    printf("yay");
+   gotoxy(1,1);
 }
 
