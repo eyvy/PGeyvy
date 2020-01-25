@@ -9,8 +9,12 @@ void gotoxy(int x, int y) //whooosh first function
 }
 int main()
 {
-   gotoxy(7,7);
+
    printf("yay");
-   gotoxy(1,1);
+     gotoxy(7,7);
+   printf("yay");
+   gotoxy(5,4);
+   printf("dfs");
+
 }
 
